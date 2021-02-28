@@ -11,7 +11,7 @@ ___
 
 **Features:**
 * **Weather For** - Get's weather for a specific day.
-* **Temperature ** - Get's temperature for a specific City.
+* **Temperature** - Get's temperature for a specific City.
 * **Feels Like** - Tell's user what it feels like based on given weather conditions.
 * **Weather** - Lists current weather for a specific City.
 

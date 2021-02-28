@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    background-size: cover;
+    background-image: url("https://i.imgur.com/6kul6DE.jpg");
+    background-color: rgb(2, 2, 31)
+    text-align: center;
+    color: white;
+}
+
+#app-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+}
+
+h1 {
+    font-family: 'Rock Salt', cursive;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: 'Newsreader', serif; 
+    font-size: 25px;
+}
+
+main p {
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+
+
+
